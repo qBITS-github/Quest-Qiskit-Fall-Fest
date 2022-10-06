@@ -20,12 +20,34 @@ The Fall Fest here at BITS Goa is going to be a hackathon, starting on November 
 
 ## Schedule
 
-We are proud to welcome you to the BITS Goa Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below, or download the PDF here
+We are proud to welcome you to the BITS Goa Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below:
 
-Make sure to join the Discord / email thread / communication channel where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace here if you haven't already.
+### Thursday - 24/11/2022
 
-more
+| Event                         | Time       |
+| ------------------------------| ---------- |
+|Intro to QC 101 (prefest event)| 5pm - 7pm  |
+
+### Friday - 25/11/2022
+
+| Event          | Time       |
+| ---------------| ---------- |
+|Fest Launch     | 5pm - 6pm  |
+|Lecture 1       | 6pm - 7pm  |
+
+### Saturday - 26/11/2022
+
+| Event          | Time       |
+| ---------------| ---------- |
+|QC Project Expo | 5pm - 7pm  |
+|Lecture 2       | 7pm - 9pm  |
+
+### Sunday - 27/11/2022
+
+| Event           | Time        |
+| ----------------| ----------- |
+|Lecture 3        | 10am - 11am |
+|Closing Ceremony | 10pm - 11pm |
 
 
-
-Qiskit Events Code of Conduct
+Make sure to join the Discord / email thread / communication channel where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://qiskit.slack.com) if you haven't already.
