@@ -9,45 +9,39 @@ The Qiskit Fall Fest is a collection of quantum computing events on college camp
 The Fall Fest here at BITS Goa is going to be a hackathon, starting on November 22nd. Details about the hackathon and rules can be found below. The deadline for all projects is November 26th, at 11:59 pm IST. Any projects submitted after that will NOT be judged. Good luck!
 ## Official Registration
 
-    Before you register, read the full rules here. This is a hackathon for BITS Goa students only, if you are not a student of BITS Goa, you may not participate in this hackathon.
-    To officially sign up, register using this link
+To officially sign up, register using [this link](https://docs.google.com/forms/d/e/1FAIpQLSfxX6z_pwZJIE6DwiEB_yCVnRhaopjBJTGIpI-SUd_nt60hbQ/viewform)
     
 ## Hackathon Details
-
-    All projects submitted must follow the hackathon prompt, which we will reveal on Nov. 22nd
-    All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can learn more about Qiskit and begin getting familiar here.
-    You can not start building your project before Nov. 22nd, and you must submit your project by the deadline.
+You can find the problem statement and rules of the hackathon [here](https://github.com/qBITS-github/Quest-Qiskit-Fall-Fest/blob/main/Quest%20qHackathon.pdf)
 
 ## Schedule
 
 We are proud to welcome you to the BITS Goa Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below:
 
-### Thursday - 24/11/2022
+### Wednesday - 23/11/2022
 
-| Event                         | Time       |
-| ------------------------------| ---------- |
-|Intro to QC 101 (prefest event)| 5pm - 7pm  |
+| Event                | Time       |
+| ---------------------| ---------- |
+|QC 101 (prefest event)| 6pm - 8pm  |
 
 ### Friday - 25/11/2022
 
 | Event          | Time       |
 | ---------------| ---------- |
-|Fest Launch     | 5pm - 6pm  |
-|Lecture 1       | 6pm - 7pm  |
+|Fest Launch     | 5pm - 7pm  |
 
 ### Saturday - 26/11/2022
 
 | Event          | Time       |
 | ---------------| ---------- |
 |QC Project Expo | 5pm - 7pm  |
-|Lecture 2       | 7pm - 9pm  |
+|Lecture 1       | 7pm - 9pm  |
 
 ### Sunday - 27/11/2022
 
 | Event           | Time        |
 | ----------------| ----------- |
-|Lecture 3        | 10am - 11am |
+|Lecture 2        | 10am - 11am |
 |Closing Ceremony | 10pm - 11pm |
 
-
-Make sure to join the Discord / email thread / communication channel where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://qiskit.slack.com) if you haven't already.
+Watch our [instagram](https://www.instagram.com/qbits.bitsgoa/) for latest updates on the fest!
