@@ -14,6 +14,9 @@ To officially sign up, register using [this link](https://docs.google.com/forms/
 ## Hackathon Details
 You can find the problem statement and rules of the hackathon [here](https://github.com/qBITS-github/Quest-Qiskit-Fall-Fest/blob/main/Quest%20qHackathon.pdf)
 
+## Challenges Details 
+You can find the problem statement and rules of the challenges [here](https://github.com/qBITS-github/Quest-Qiskit-Fall-Fest/blob/main/challenges.md)
+
 ## Schedule
 
 We are proud to welcome you to the BITS Goa Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below:
