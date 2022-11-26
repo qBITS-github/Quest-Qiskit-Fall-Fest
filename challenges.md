@@ -14,7 +14,9 @@ Hello and welcome to the Challenges of Quest - Qiskit Fall Fest.
 
 ### Challenge Links: 
 Challenge 1 - https://colab.research.google.com/drive/1lrrchLGrAYUuqTm1mEkrtduCgWXVi62V 
+
 Challenge 2 - https://colab.research.google.com/drive/1w7EHwxpLOYR0ZbmQ0vSaVBZnq0r6V64d
+
 Challenge 3 - https://colab.research.google.com/drive/1UFgmNz_nBt8fSb2EjmaXnPGS-HS52wLc 
 
 ### Submission
